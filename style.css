@@ -1,5 +1,5 @@
 body{
-    background-color: lightcyan;
+    background-color: rgb(159, 248, 248);
 }
 
 h1 {
@@ -8,4 +8,7 @@ h1 {
 
 p {
     text-align: center;
+}
+em strong {
+    color: deeppink;
 }
